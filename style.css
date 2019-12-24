@@ -1,20 +1,23 @@
 body {
     background-image: url(images/Sand.jpg);
+    background-color: rgb(187, 63, 25);
     background-repeat: no-repeat;
     background-size: auto;
-    /*background-attachment: fixed;
-    background-position: center;*/
-    background-color: rgb(187, 63, 25)
+    background-attachment: fixed;
+    background-position: center;
 }
 
-body h1 {
-    margin-left: 40px;
+
 
 body h2 {
     font-size: 1.8rem; 
     font-weight: 400;
     line-height: 1.4;
     color: #fff;
+    margin-left: 40px;
+}
+
+body h1 {
     margin-left: 40px;
 }
 
@@ -168,5 +171,4 @@ footer {
     color: #fff;
     background-color: #04055f;
     padding: 10px;
-
 }
