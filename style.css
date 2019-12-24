@@ -28,6 +28,7 @@ body h2 {
 .navlist {
     float: right;
     width: auto;
+    margin-right: 100px;
 }
 
 .nav-item {
